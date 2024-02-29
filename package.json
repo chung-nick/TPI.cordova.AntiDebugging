@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "Neux.cordova.AntiDebugging",
+  "cordova_name": "Neux iOS Anti iOS Debugging",
+  "description": "",
+  "author": "Dave Alden",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chung-nick/TPI.cordova.AntiDebugging"
+  },
+  "issue": "https://github.com/chung-nick/TPI.cordova.AntiDebugging",
+  "cordova": {
+    "id": "Neux.cordova.AntiDebugging",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "ios"
+  ]
+}
